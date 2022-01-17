@@ -1,4 +1,4 @@
-package com.ivn.common.events;
+package com.ivn.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 
